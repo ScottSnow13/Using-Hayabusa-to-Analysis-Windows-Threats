@@ -104,3 +104,4 @@ By following this walkthrough, you can effectively use Hayabusa to analyze Windo
 ## References:
 
 - Hayabusa GitHub: [Yamato Security](https://github.com/Yamato-Security/hayabusa)
+- Timeline Explorer: [Zimmerman's Tools](https://ericzimmerman.github.io/#!index.md)
